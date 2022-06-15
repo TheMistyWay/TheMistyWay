@@ -16,6 +16,8 @@ Aspiring to become a software developer or data scientist.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TheMistyWay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheMistyWay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+Thanks to the following website for ReadMe template: https://gprm.itsvg.in/
+
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 

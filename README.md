@@ -1,7 +1,7 @@
 # 💫About Me :
 A Beginner in the World of Programming. My quest to learn isn't smothered by an evergrowing avalanche of work.
 
-A High School Student in South Africa(yes! it's a country). So to be an undergraudate.
+A High School Student in South Africa(Yes! it's a country). Soon being a undergraudate.
 Aspiring to become a software developer or data scientist.
 
 

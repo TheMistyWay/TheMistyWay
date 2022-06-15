@@ -1,7 +1,8 @@
 # 💫About Me :
-A Beginner in the World of Programming. School is dreadful, but it isn't stopping my quest to learn.
+A Beginner in the World of Programming. My quest to learn isn't smothered by an evergrowing avalanche of work.
 
-A High School Student in South Africa(yes! it's a country). Aspiring to become a software developer or data scientist.
+A High School Student in South Africa(yes! it's a country). So to be an undergraudate.
+Aspiring to become a software developer or data scientist.
 
 
 

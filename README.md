@@ -1,8 +1,8 @@
 # 💫About Me :
 A Beginner in the World of Programming. My quest to learn isn't smothered by an evergrowing avalanche of work.
 
-An Undergraduate Student at UCT (South Africa, Cape Town)
-Aspiring to become a software developer or data scientist.
+An Undergraduate Student at UCT (South Africa, Cape Town).
+Aspiring to become a Software developer or Data scientist.
 
 
 

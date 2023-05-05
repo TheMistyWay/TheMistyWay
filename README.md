@@ -1,7 +1,7 @@
 # 💫About Me :
 A Beginner in the World of Programming. My quest to learn isn't smothered by an evergrowing avalanche of work.
 
-A High School Student in South Africa(Yes! it's a country, it's not the SOUTH of Africa). Soon being a undergraudate.
+An Undergraduate Student at UCT (South Africa, Cape Town)
 Aspiring to become a software developer or data scientist.
 
 
